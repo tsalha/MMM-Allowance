@@ -1,7 +1,7 @@
 {
   "name": "mmm-allowance",
   "version": "1.0.0",
-  "description": "[Module description]",
+  "description": "Aggregates an allowance with the option to clear when it's paid.",
   "main": "MMM-Allowance.js",
   "scripts": {
     "lint": "eslint .",
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+[GitHub url].git"
+    "url": "git+https://github.com/tsalha/MMM-Allowance.git"
   },
   "keywords": [
     "template"
   ],
-  "author": "[Author]",
+  "author": "Travis Salha",
   "license": "MIT",
   "bugs": {
-    "url": "[GitHub url]/issues"
+    "url": "https://github.com/tsalha/MMM-Allowance/issues"
   },
-  "homepage": "[GitHub url]#readme",
+  "homepage": "https://github.com/tsalha/MMM-Allowance#readme",
   "devDependencies": {
     "@eslint/js": "^9.10.0",
     "@stylistic/eslint-plugin": "^2.7.2",
